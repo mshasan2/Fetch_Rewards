@@ -1,1 +1,1 @@
-Fetch Coding Exercise - SDET
+Fetch Coding Exercise
