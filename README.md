@@ -23,9 +23,11 @@ We will implement the second solution as it is more efficient.
 **Note:** We have added a delay of 2 seconds in multiple places to make the process visible. This can be removed to make the process faster when implemented as part of an automated system.
 
 **Steps to run the code:**
-1. Install Python 3.8 or higher.
-2. Clone this repository using the command `git clone https://github.com/mshasan2/Fetch_Rewards.git`.
-3. Install the required libraries using the command `pip install -r requirements.txt`.
-4. Navigate to the directory where the code is cloned.
-5. Run the command `python findFakeBar.py` in terminal / command prompt. The result will be displayed in the terminal.
+1. Install Python 3.8 or higher from https://www.python.org/downloads/.
+2. Install Latest version of Chrome Browser from https://www.google.com/chrome/.
+3. Clone this repository using the command `git clone https://github.com/mshasan2/Fetch_Rewards.git`.
+4. Install the required libraries using the command `pip install -r requirements.txt`.
+5. Navigate to the directory where the code is cloned.
+6. Run the command `python findFakeBar.py` in terminal / command prompt. The result will be displayed in the terminal.
 
+**Execution Video Link** https://www.youtube.com/watch?v=jToJl3swLwA
